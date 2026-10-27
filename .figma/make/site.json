@@ -1,0 +1,12 @@
+{
+  "title": "RPP Durango | Gestión territorial",
+  "description": "Gestión integral de expedientes con búsqueda, filtros y mapas interactivos para facilitar el seguimiento y análisis de datos geográficos y administrativos.",
+  "language": "es",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
